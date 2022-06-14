@@ -1,0 +1,5 @@
+public class StaticUtil{
+   public String convertStaticToNonStatic(){
+     return "";
+   }
+}
